@@ -15,4 +15,3 @@ This project scores DeFi wallets based on simulated Compound V2/V3 transaction a
 
 ## Output
 - `risk_scores.csv`: Wallet ID and Score
-- `score_distribution.png`: Histogram of score distribution (if run with visualization)
